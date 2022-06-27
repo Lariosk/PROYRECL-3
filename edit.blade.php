@@ -7,12 +7,18 @@
 @section('content')
     <section class="content container-fluid">
         <div class="">
+
+
+        yyyy
             <div class="col-md-12">
 
                 @includeif('partials.errors')
 
                 <div class="card card-default">
                     <div class="card-header">
+
+
+
                         <span class="card-title">Update Prestamo</span>
                     </div>
                     <div class="card-body">
